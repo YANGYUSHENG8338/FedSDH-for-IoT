@@ -1,5 +1,4 @@
-# Supervised Discrete Hashing Based on Federated
-Learning for the Heterogeneous Internet of Things (Official)
+# Supervised Discrete Hashing Based on Federated Learning for the Heterogeneous Internet of Things (Official)
 
 **Conference:** ICIP 2022
 
