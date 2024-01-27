@@ -1,0 +1,7 @@
+/mnt/c/Users/Dslab/Desktop/demo1/weightPoolPath/
+raspdslab@100.82.153.59:RaspClientDemo1/weightPoolPath/
+bn10513137@100.66.82.83:NANOClinetDemo1/weightPoolPath/
+SERVER_SEND_TRAIN_TO_NODE
+NODE_SEND_WEIGHT_TO_SERVER
+SERVER_SEND_AGGRE_TO_NODE
+SEND_FILE_CTRL_MSG.txt
