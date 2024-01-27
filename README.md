@@ -1,12 +1,14 @@
-# CTGAN.Pytorch (Official)
+# Supervised Discrete Hashing Based on Federated
+Learning for the Heterogeneous Internet of Things (Official)
 
 **Conference:** ICIP 2022
 
-**Title:** CTGAN: Cloud Transformer Generative Adversarial Network
+**Title:** Supervised Discrete Hashing Based on Federated
+Learning for the Heterogeneous Internet of Things
 
-**Paper link:** [Paper Link](insert_paper_link_here)
+**Paper link:** [Paper Link]([insert_paper_link_here](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=ky58RT/record?r1=1&h1=7))
 
-**Authors:** Gi-Luen Huang, Pei-Yuan Wu
+**Authors:** Yu-Sheng Yang, Bo-Wei Chen
 
 ## Proposed Model
 
