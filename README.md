@@ -8,8 +8,10 @@ Learning for the Heterogeneous Internet of Things
 
 **Authors:** Yu-Sheng Yang, Bo-Wei Chen
 
+## Model  
+
 ## Depolyment 
-Please refer to 聯邦式學習模型的建構教學說明
+Please refer to [Deployment Instructions Documen](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/Deployment%20Instructions%20Documen.pdf)
 
 
 
