@@ -10,9 +10,9 @@ Learning for the Heterogeneous Internet of Things
 
 
 ## Dataset
-![image](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/img/Dataset_pic.png)
-
 All four datasets are configured as 256-gray-scale facial images, with each grayscale image sized at 64×64 pixels.
+
+![image](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/img/Dataset_pic.png)
 
 ### [AR Face Dataset](https://www2.ece.ohio-state.edu/~aleix/ARdatabase.html):
 * Records 13 different facial expressions.
@@ -38,11 +38,17 @@ All four datasets are configured as 256-gray-scale facial images, with each gray
 
 ## Depolyment 
 Please refer to [Deployment Instructions Documen](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/Deployment%20Instructions%20Documen.pdf)
-## Proposed Model
 
-### Generator
+## Experimental Results
+The following presents comparative results of the Jaffe dataset across six different models.
 
-(insert details about the proposed generator model here)
+### Speed
+![image](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/img/FedSDHforIoT.png)
+### Memory Usage
+![image](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/img/FedSDHforIoT.png)
+### Power Consumption
+![image](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/img/FedSDHforIoT.png)
 
-## Flowchart of deception detection
+
+
 
