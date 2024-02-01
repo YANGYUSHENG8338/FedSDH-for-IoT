@@ -19,20 +19,20 @@ Please refer to [Deployment Instructions Documen](https://github.com/YANGYUSHENG
 
 All four datasets are configured as 256-gray-scale facial images, with each grayscale image sized at 64×64 pixels.
 
-###[AR Face Dataset](https://www2.ece.ohio-state.edu/~aleix/ARdatabase.html):
+### [AR Face Dataset](https://www2.ece.ohio-state.edu/~aleix/ARdatabase.html):
 *Records 13 different facial expressions.
 *Involves individuals wearing sunglasses or scarves for concealment.
 
-###[Jaffe Dataset](https://paperswithcode.com/dataset/jaffe):
+### [Jaffe Dataset](https://paperswithcode.com/dataset/jaffe):
 *Involved ten Japanese women participants.
 *Captures seven different facial emotions.
 
-###[ORL Dataset](https://paperswithcode.com/dataset/orl):
+### [ORL Dataset](https://paperswithcode.com/dataset/orl):
 *Created by AT&T Cambridge Laboratory.
 *Comprises 40 different subjects.
 *Contains variations in lighting angles, facial details (with/without glasses), and facial expressions (open/closed eyes, smiling/non-smiling).
 
-###[Yale Dataset](https://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html):
+### [Yale Dataset](https://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html):
 *Created by Yale University.
 *Consists of 15 individuals with 11 images each.
 *Showcases facial expressions under different lighting conditions.
