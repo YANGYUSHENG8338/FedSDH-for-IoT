@@ -8,11 +8,6 @@ Learning for the Heterogeneous Internet of Things
 
 **Authors:** Yu-Sheng Yang, Bo-Wei Chen
 
-## Flowchart of Heterogeneous Device  
-![image](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/img/FedSDHforIoT.png)
-
-## Depolyment 
-Please refer to [Deployment Instructions Documen](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/Deployment%20Instructions%20Documen.pdf)
 
 ## Dataset
 ![image](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/img/Dataset_pic.png)
@@ -37,6 +32,12 @@ All four datasets are configured as 256-gray-scale facial images, with each gray
 * Consists of 15 individuals with 11 images each.
 * Showcases facial expressions under different lighting conditions.
 
+
+## Flowchart of Heterogeneous Device  
+![image](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/img/FedSDHforIoT.png)
+
+## Depolyment 
+Please refer to [Deployment Instructions Documen](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/Deployment%20Instructions%20Documen.pdf)
 ## Proposed Model
 
 ### Generator
