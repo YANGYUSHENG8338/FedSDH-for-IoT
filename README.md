@@ -43,11 +43,11 @@ Please refer to [Deployment Instructions Documen](https://github.com/YANGYUSHENG
 The following presents comparative results of the Jaffe dataset across six different models.
 
 ### Speed
-![image](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/img/FedSDHforIoT.png)
+![image](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/img/JAFFE_Code_Length_ALL_POWER.png)
 ### Memory Usage
-![image](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/img/FedSDHforIoT.png)
+![image](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/img/JAFFE_Code_Length_ALL_MEMORY.png)
 ### Power Consumption
-![image](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/img/FedSDHforIoT.png)
+![image](https://github.com/YANGYUSHENG8338/FedSDH-for-IoT/blob/master/img/JAFFE_Code_Length_ALL_SPEED.png)
 
 
 
