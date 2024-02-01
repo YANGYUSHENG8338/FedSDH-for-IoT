@@ -9,7 +9,7 @@ Learning for the Heterogeneous Internet of Things
 **Authors:** Yu-Sheng Yang, Bo-Wei Chen
 
 ## Depolyment 
-Please refer to FATE
+Please refer to 聯邦式學習模型的建構教學說明
 
 
 
