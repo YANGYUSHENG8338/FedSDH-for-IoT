@@ -1,6 +1,5 @@
 # Supervised Discrete Hashing Based on Federated Learning for the Heterogeneous Internet of Things (Official)
 
-**Conference:** ICIP 2022
 
 **Title:** Supervised Discrete Hashing Based on Federated
 Learning for the Heterogeneous Internet of Things
@@ -9,8 +8,16 @@ Learning for the Heterogeneous Internet of Things
 
 **Authors:** Yu-Sheng Yang, Bo-Wei Chen
 
+## Depolyment 
+Please refer to FATE
+
+
+
 ## Proposed Model
 
 ### Generator
 
 (insert details about the proposed generator model here)
+
+## Flowchart of deception detection
+
